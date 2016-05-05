@@ -1,0 +1,101 @@
+.home{
+	height: 700px;
+	background-color: darkgray;
+
+}
+
+.explore{
+	height: 350px;
+	background-image: url("../images/watch.png");
+	background-repeat: no-repeat; 
+	background-position: left;
+	background-color: darkred;
+}
+
+		
+		.explore li{
+			list-style-type: none;
+			margin-top: 30px;
+			margin-top: 130px;
+		}
+		.explore h3{
+			text-align: center;
+			margin-top: 140px;
+		}
+		.explore button{
+			width: 50px;
+			height: 50px;
+			float: left;
+			margin-right: 30px;
+		}
+
+
+.event{
+	height: 500px;
+	background-image: url("../images/guitar.png");
+	background-repeat: no-repeat; 
+	background-position: right;
+	background-color: #58A5BF;
+}
+
+		.event .col-md-3:last-child{
+			height: 500px;
+		}
+
+
+
+.about{
+	height: 450px;
+	background-image: url("../images/guitargreen.jpg");
+	background-repeat:repeat; 
+}
+	.about img{
+		width: 450px;
+	}
+
+
+
+
+
+
+
+
+
+
+.twitter{
+	height: 350px;
+	background-image: url("../images/twitter-bg.jpg");
+	background-repeat: repeat-x; 
+	/*background-position: left;*/
+}
+.twitter .col-md-6 img{
+	position: left;
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+	margin-top: 100px;
+	margin-left: 150px;
+	border: 3px solid lightgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+.sponsors{
+	height: 450px;
+	/*background: lightgreen;*/
+}
+.contact{
+	height: 950px;
+	/*background-color: purple;*/
+}
+/*.col-md-4{
+	border: 1px solid red;
+}*/
